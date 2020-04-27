@@ -1,0 +1,14 @@
+{
+  "name": "adapterapattern",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/parkchanjong/adapterPatterns_typeScript.git",
+  "author": "parkchanjong <7000cj@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.8.3"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
